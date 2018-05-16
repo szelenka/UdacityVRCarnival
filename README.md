@@ -12,7 +12,7 @@ The end goal of this project is to customize the Udacity Carnival project, which
 - TextMesh Pro v1.0.55.2017.1.0b12 (*provided*)
 
 ## Setup
-There's an issue with the Google Android SDK version XX, where it will report an error around "Unable to list target platforms." or "Unrecognized command 'android'".
+There's an issue with the Google Android SDK version 27, where it will report an error around "Unable to list target platforms." or "Unrecognized command 'android'".
 
 To workaround this issue, you can manually download the tools to a previous version of the SDK. This will remove the **tools** folder, and replace it with a version that works.
 ```
